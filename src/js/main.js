@@ -1,4 +1,4 @@
-import Victor from "../../ext-lib/js/victor/index";
+import Victor from "../../lib/js/victor/index";
 
 
 var vec = new Victor(42, 1337);
